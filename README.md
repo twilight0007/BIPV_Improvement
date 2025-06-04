@@ -46,12 +46,6 @@ The project implements a **Modified Perturb and Observe (P&O)** algorithm integr
 - **Higher tracking accuracy** and reduced oscillations at steady-state.
 - **Improved overall energy harvest** compared to conventional MPPT approaches.
 
-## 👨‍💻 Contributors
-
-- Shrayam Sarmah  
-- Ashmita Sutradhar  
-- [Additional contributors if applicable]
-
 ## 📜 License
 
 This project is for academic and educational use only. Please cite or acknowledge the work appropriately if used.
